@@ -63,3 +63,10 @@ To run tests or build the project, you can use the following npm scripts:
 
 Test: Run `npm test` to execute tests using Jest.
 Build: Run `npm run build` to build the project with TypeScript
+
+
+## TODO's:
+
+1. Increase test coverage, add test for the dedup command
+2. Extra validations are required, validate that the input file is a valid JSON file, validate the strategy input is a correct one, validate that the input file exists, validate that the output file does not exist, etc.
+3. Perform additional test scenarios to ensure the tool works as expected.
