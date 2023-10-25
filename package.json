@@ -1,0 +1,30 @@
+{
+  "name": "application-cleaner",
+  "version": "0.0.1",
+  "description": "Command line tool to help clean Knack application data",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "keywords": [
+    "Knack",
+    "Command",
+    "Line",
+    "Tool",
+    "Application",
+    "Cleaner"
+  ],
+  "author": "Juan Luis Angel Cano Moreno",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.6",
+    "@types/node": "^20.8.8",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
