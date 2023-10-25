@@ -1,7 +1,7 @@
 # Knack Application-Cleaner
 
 ## Overview
-`application-cleaner` is a command line tool designed to help clean and manage Knack application. This tool provides a deduplication feature, enabling users to remove duplicated data in their applications with various strategies and algorithms.
+`application-cleaner` is a command line tool designed to help clean Knack applications. This tool provides a deduplication feature, enabling users to remove duplicated data in their applications with various strategies and algorithms.
 
 ## Installation
 
